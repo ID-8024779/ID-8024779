@@ -7,3 +7,15 @@
   <br>
 <img src="https://media.discordapp.net/attachments/1482773333316731004/1543821664587092070/Untitled51_20260825135319.png?ex=6acba837&is=6aca56b7&hm=2063839bf7ff77d25b51b6038c4e410ddc96df52292dffb774d3b2688720d67d&=&format=webp&quality=lossless" width="15" alt="Alt Text">  𓏼   𝓕ᵤₗₗ ₖᵢₙ  ♡͝
 </div>
+<br>
+<div align="center">
+  <img src="https://64.media.tumblr.com/222f6a2545eb5bdd74e87b41f43adeaf/337e3afb452dba8c-40/s250x400/162614633b0aa2e5846bb644bbe2ffdbc9cba458.gifv" width="115" alt="Alt Text">　　<img src="https://64.media.tumblr.com/b2c9fdc6b429dd657c81203125555469/337e3afb452dba8c-34/s250x400/d627682c82ec94fca390dfc1c8c46caf83d2ee8d.pnj" width="115" alt="Alt Text">　　<img src="https://64.media.tumblr.com/a49ab5b88ebe0eb4041d863728d8f5cc/337e3afb452dba8c-75/s250x400/c7d7dde9b8efcd5dc6ce10e35cdcc49185569703.pnj" width="115" alt="Alt Text">
+</div>
+<br>
+<br>
+<div align="center">
+<img src="https://64.media.tumblr.com/1769d910864769ea8fd272ddf9d22b94/1539e010ce8fa124-15/s2048x3072/0219ff0703ae2a745906a21ee06a393893515cb3.pnj" width="500" alt="Alt Text">
+</div>
+<div align="center">
+@AzureIsHere @jesskosh @ @
+</div>
