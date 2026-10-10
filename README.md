@@ -19,3 +19,5 @@
 <div align="center">
 @AzureIsHere      @jesskosh      @wrathgarden      and      kylo
 </div>
+
+${\text{\color{#F2A1BC}text test}}$
