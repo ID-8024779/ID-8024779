@@ -17,5 +17,5 @@
 <img src="https://64.media.tumblr.com/1769d910864769ea8fd272ddf9d22b94/1539e010ce8fa124-15/s2048x3072/0219ff0703ae2a745906a21ee06a393893515cb3.pnj" width="500" alt="Alt Text">
 </div>
 <div align="center">
-@AzureIsHere @jesskosh @ @
+@AzureIsHere      @jesskosh      @wrathgarden      and      kylo
 </div>
