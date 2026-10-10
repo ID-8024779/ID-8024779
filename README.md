@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://img.shields.io/badge/axe%3A%20Murdered-32-red?style=for-the-badge" alt="axe: Murdered">
+</p>
+
+
 <!-- READ ME TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=B30000&center=true&vCenter=true&width=435&lines=Papaver+Rhoeas+.+.+.;Do+You+Hear+The+Voices%2C+Arches%3F;I+Need+Them+To+Love+Me.;Its+Everywhere..+They're+Everywhere!;I..Have+Been+Working+On+A+New+Cure%E2%80%94;For%E2%80%94For+the+Flower+disasters+.+.+." alt="Typing SVG" /></a>
