@@ -12,7 +12,7 @@
 <!-- BROOKER I LOVE YOU -->
 <p align="center">
   <a href="https://artfight.net/attack/16889845.medical-attention">
-  <img src="https://file.garden/aja_BBPkmj7ol07P/Untitled34_20261010233200.png" width="500" alt="Alt Text">
+  <img src="https://file.garden/aja_BBPkmj7ol07P/Brooker_(Banner)" width="500" alt="Alt Text">
   </a>
 </p>
 
