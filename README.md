@@ -18,9 +18,9 @@
 
 
 <p align="center">
-  ׅ   “   <img src="https://64.media.tumblr.com/989e97a17d7b6979e2b35561639ea5d4/df68d6eba7fc511c-28/s75x75_c1/9ad1742a08321b538d5c32f4389430bc90a84667.gifv" width="15" alt="Alt Text">  𓈒   。ׁ
+  ׅ   “   <img src="https://64.media.tumblr.com/d07f8deea8fa11ac44502e154bf890b7/2a6ba979c585bbd6-60/s75x75_c1/ca4ef39852f920a772a3e7978d86ba58b6e547c2.gifv" width="20" alt="Alt Text">  𓈒   。ׁ
   <br>
-<img src="https://media.discordapp.net/attachments/1482773333316731004/1543821664587092070/Untitled51_20260825135319.png?ex=6acba837&is=6aca56b7&hm=2063839bf7ff77d25b51b6038c4e410ddc96df52292dffb774d3b2688720d67d&=&format=webp&quality=lossless" width="15" alt="Alt Text">  𓏼   𝓕ᵤₗₗ ₖᵢₙ  ♡͝
+<img src="https://64.media.tumblr.com/930117a1cfc053c7a64a46bdc1f2747f/2a6ba979c585bbd6-90/s75x75_c1/4b369cd74f99b805577bc466283c4b2daab56ec0.gifv" width="20" alt="Alt Text">  𓏼   𝓕ᵤₗₗ ₖᵢₙ  ♡͝
 </p>
 
 
@@ -28,7 +28,16 @@
   <img src="https://64.media.tumblr.com/222f6a2545eb5bdd74e87b41f43adeaf/337e3afb452dba8c-40/s250x400/162614633b0aa2e5846bb644bbe2ffdbc9cba458.gifv" width="115" alt="Alt Text">　　<img src="https://64.media.tumblr.com/b2c9fdc6b429dd657c81203125555469/337e3afb452dba8c-34/s250x400/d627682c82ec94fca390dfc1c8c46caf83d2ee8d.pnj" width="115" alt="Alt Text">　　<img src="https://64.media.tumblr.com/a49ab5b88ebe0eb4041d863728d8f5cc/337e3afb452dba8c-75/s250x400/c7d7dde9b8efcd5dc6ce10e35cdcc49185569703.pnj" width="115" alt="Alt Text">
 </p>
 
+<p align="center">
+${\color{#54577e}\text{ ﾟ⠀˖⠀⠀ꕀ⠀⠀🅃hey / theɱ⠀⠀◟⠀⠀⠀aro lithro⠀⠀𓎟𓎟⠀⠀awsomeg fictkin⠀⠀౨ৎ}}$ <br>
+${\color{#CEA192}\text{ask⠀⠀4⠀⠀frq⠀/⠀dms⠀⠀﹕⠀⠀nonverb⠀⠀(⠀unls friends⠀)⠀⠀﹕⠀⠀often⠀⠀offtab}}$ <br>
+${\color{#CEA192}\text{basic dni}}$
+</p>
 
 <p align="center">
-<img src="https://64.media.tumblr.com/1769d910864769ea8fd272ddf9d22b94/1539e010ce8fa124-15/s2048x3072/0219ff0703ae2a745906a21ee06a393893515cb3.pnj" width="500" alt="Alt Text">
+${\color{#646682}\text{✿}}$
+</p>
+
+<p align="center">
+<img src="https://64.media.tumblr.com/331f25bd60b6b0094df9e4ebc4b8ed07/83a9e7c1016a00e1-ff/s2048x3072/3b54cbab9583d4c9d50da08b32ef8819fd57eca7.pnj" width="500" alt="Alt Text">
 </p>
