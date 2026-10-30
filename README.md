@@ -18,9 +18,9 @@
 
 
 <p align="center">
-  ׅ   “   <img src="https://64.media.tumblr.com/d07f8deea8fa11ac44502e154bf890b7/2a6ba979c585bbd6-60/s75x75_c1/ca4ef39852f920a772a3e7978d86ba58b6e547c2.gifv" width="20" alt="Alt Text">  𓈒   。ׁ
+${\color{#e3cccc}\text{  ׅ   “   }}$<img src="https://64.media.tumblr.com/d07f8deea8fa11ac44502e154bf890b7/2a6ba979c585bbd6-60/s75x75_c1/ca4ef39852f920a772a3e7978d86ba58b6e547c2.gifv" width="20" alt="Alt Text">${\color{#e3cccc}\text{  𓈒   。ׁ}}$
   <br>
-<img src="https://64.media.tumblr.com/930117a1cfc053c7a64a46bdc1f2747f/2a6ba979c585bbd6-90/s75x75_c1/4b369cd74f99b805577bc466283c4b2daab56ec0.gifv" width="20" alt="Alt Text">  𓏼   𝓕ᵤₗₗ ₖᵢₙ  ♡͝
+<img src="https://64.media.tumblr.com/930117a1cfc053c7a64a46bdc1f2747f/2a6ba979c585bbd6-90/s75x75_c1/4b369cd74f99b805577bc466283c4b2daab56ec0.gifv" width="20" alt="Alt Text">${\color{#e3cccc}\text{  𓏼   𝓕ᵤₗₗ ₖᵢₙ  ♡͝}}$
 </p>
 
 
@@ -29,15 +29,41 @@
 </p>
 
 <p align="center">
-${\color{#54577e}\text{ ﾟ⠀˖⠀⠀ꕀ⠀⠀🅃hey / theɱ⠀⠀◟⠀⠀⠀aro lithro⠀⠀𓎟𓎟⠀⠀awsomeg fictkin⠀⠀౨ৎ}}$ <br>
-${\color{#CEA192}\text{ask⠀⠀4⠀⠀frq⠀/⠀dms⠀⠀﹕⠀⠀nonverb⠀⠀(⠀unls friends⠀)⠀⠀﹕⠀⠀often⠀⠀offtab}}$ <br>
-${\color{#CEA192}\text{basic dni}}$
+${\color{#a30000}\text{ ﾟ⠀˖⠀⠀ꕀ⠀⠀🅃hey / theɱ⠀⠀◟⠀⠀⠀aro lithro⠀⠀𓎟𓎟⠀⠀awsomeg fictkin⠀⠀౨ৎ}}$ <br>
+${\color{#b89898}\text{ask⠀⠀4⠀⠀frq⠀/⠀dms⠀⠀﹕⠀⠀nonverb⠀⠀(⠀unls friends⠀)⠀⠀﹕⠀⠀often⠀⠀offtab}}$ <br>
+${\color{#e3cccc}\text{basic dni}}$
 </p>
 
 <p align="center">
-${\color{#646682}\text{✿}}$
+${\color{#910000}\text{✿}}$
+</p>
+
+<p align="center">
+  <a href="https://axercist.straw.page">
+    straw</a>
+  ⠀⠀⠀⠀
+  <a href="https://axercism.carrd.co/">
+    carrd</a>
 </p>
 
 <p align="center">
 <img src="https://64.media.tumblr.com/331f25bd60b6b0094df9e4ebc4b8ed07/83a9e7c1016a00e1-ff/s2048x3072/3b54cbab9583d4c9d50da08b32ef8819fd57eca7.pnj" width="500" alt="Alt Text">
+</p>
+  <br>
+<p align="center">
+${\color{#910000}\text{My Friends}}$
+</p>
+  <br>
+<p align="center">
+  <a href="https://github.com/chri-starr">
+    chri-starr</a>
+  ⠀⠀⠀⠀
+  <a href="https://github.com/awe-someG">
+    awe-someG</a>
+  ⠀⠀⠀⠀
+  <a href="https://github.com/AzureIsHere">
+    azureishere</a>
+  ⠀⠀⠀⠀
+  <a href="https://github.com/ID-trapped">
+    ID-trapped</a>
 </p>
